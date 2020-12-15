@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-authorization
 Version  : 0.60.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/d5/42/cb6dc4b14c39c16ea7319c12e63cfb6b67af8d5b1c6ab1ee5a6bdc2ecd8d/azure-mgmt-authorization-0.60.0.zip
 Source0  : https://files.pythonhosted.org/packages/d5/42/cb6dc4b14c39c16ea7319c12e63cfb6b67af8d5b1c6ab1ee5a6bdc2ecd8d/azure-mgmt-authorization-0.60.0.zip
 Summary  : Microsoft Azure Authorization Management Client Library for Python
